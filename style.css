@@ -86,8 +86,6 @@ body *{
   
   .light #switch button {
     animation: slide-in 0.2s forwards;
-    right: 0;
-    left: initial;
   }
   
   #switch button:hover {
@@ -179,5 +177,24 @@ footer {
 
     .light {
         --bg-url: url(./assents/bg-desktop-light.jpg)
+    }
+}
+
+/* animation */
+@keyframes slide-in {
+    from {
+        left: 0;
+    }
+    to {
+        left: 50%;
+    }
+}
+
+@keyframes slide-back {
+    from {
+        left: 50%;
+    }
+    to {
+        left: 0;
     }
 }
