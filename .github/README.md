@@ -10,7 +10,7 @@ Freelancer para criar um mini Portifolio para colocar na bio. <br/>
 <br>
 
 <p align="center">
-  <img alt="projeto DevLinks" src="./assents/img-readme.png" width="100%">
+  <img alt="projeto DevLinks" src="https://i.ibb.co/Jn9rNNN/img-readme.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
